@@ -1,2 +1,2 @@
 # cheating-detection
-Cheating detection from head pose (MediaPipe) and eye (Dlib).
+Cheating detection program using head pose (MediaPipe) and eye (Dlib) for Research Methodology subject.
